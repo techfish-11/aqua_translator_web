@@ -24,9 +24,9 @@ const About = () => {
           {/* Feature 2 */}
           <div className="flex flex-col items-center p-6 md:p-8 bg-white bg-opacity-80 rounded-2xl shadow-lg transform transition duration-300 hover:scale-105 hover:shadow-2xl">
             <FaWifi className="text-4xl md:text-5xl text-blue-500 mb-4 animate-bounce" />
-            <h3 className="text-xl md:text-2xl font-semibold text-gray-800 mb-3">Evex Developers API</h3>
+            <h3 className="text-xl md:text-2xl font-semibold text-gray-800 mb-3">Evex Developers&apos; API</h3>
             <p className="text-gray-600 text-sm md:text-base">
-              We use Evex Developers' translation API to provide accurate translations.
+              We use Evex Developers&apos; translation API to provide accurate translations.
             </p>
           </div>
 

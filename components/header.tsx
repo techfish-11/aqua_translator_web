@@ -3,7 +3,6 @@
 import React from 'react';
 import { FaGithub } from 'react-icons/fa';
 import { motion } from 'framer-motion';
-import { IoLogoAndroid } from "react-icons/io";
 import { MdOutlineGTranslate } from "react-icons/md";
 
 const Header = () => {
